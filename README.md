@@ -25,3 +25,6 @@ The dataset has been transformed using pandas to divide some of its columns, and
 
 * Rajiv Chilaka become the director who directed the most films with 22 titles.
 
+## Screenshot
+
+![Netflix Dashboard](https://user-images.githubusercontent.com/90838725/226974218-f0eabc61-6102-4263-ad5f-06e5ce100044.png)
