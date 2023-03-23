@@ -1,6 +1,8 @@
 
 # Netflix Dataset Analysis
 
+![Netflix-logo-red-black-png](https://user-images.githubusercontent.com/90838725/227272536-fd1f0fb4-ff49-4f66-8ab4-d5b3507ed9e3.png)
+
 Netflix, Inc. is a California-based streaming service and production company founded in 1997 by Reed Hastings and Marc Randolph. It offers a vast collection of movies, TV shows, and documentaries through distribution deals and original productions known as Netflix Originals. The company has a global presence with subscribers in over 190 countries.
 
 
