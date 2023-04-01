@@ -25,7 +25,7 @@ The dataset has been transformed using pandas to divide some of its columns, and
 
 * The highest number of titles involved Anupam Kher as an actor followed by Shahrukh Khan.
 
-* Rajiv Chilaka become the director who directed the most films with 22 titles.
+* Rajiv Chilaka became the director who directed the most films with 22 titles.
 
 ## Screenshot
 
