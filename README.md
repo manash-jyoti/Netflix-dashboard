@@ -6,12 +6,12 @@
 Netflix, Inc. is a California-based streaming service and production company founded in 1997 by Reed Hastings and Marc Randolph. It offers a vast collection of movies, TV shows, and documentaries through distribution deals and original productions known as Netflix Originals. The company has a global presence with subscribers in over 190 countries.
 
 
-## Description
+## 1️⃣ Description
 
 This dataset contains the information about the movies and TV shows added to Netflix during 2008 to 2021. There are a total of 8807 number of Movies and TV Shows listed in the dataset. The original dataset can be found in [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/download?datasetVersionNumber=5).
 
 The dataset has been transformed using pandas to divide some of its columns, and then expand them into individual rows to facilitate analysis in Tableau.
-## Key insights
+## 2️⃣ Key insights
 
 * It's interesting to note that Netflix has released almost twice as many movies as TV shows. Over a period of 67 years, Netflix has released a total of 3,735 movies and 1,955 TV shows(till 2022). It suggests that Netflix has placed a greater emphasis on producing and releasing movies compared to TV shows. This may be influenced by factors such as the availability of content and the preferences of Netflix's audience.
 
